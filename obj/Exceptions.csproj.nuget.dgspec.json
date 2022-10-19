@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruan1\\Fundamentos .NET e C#\\Exceptions\\Exceptions.csproj": {}
+    "C:\\Users\\ruan1\\Fundamentos .NET e C#\\Clones GITHub\\ExceptionHandling\\Exceptions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruan1\\Fundamentos .NET e C#\\Exceptions\\Exceptions.csproj": {
+    "C:\\Users\\ruan1\\Fundamentos .NET e C#\\Clones GITHub\\ExceptionHandling\\Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruan1\\Fundamentos .NET e C#\\Exceptions\\Exceptions.csproj",
+        "projectUniqueName": "C:\\Users\\ruan1\\Fundamentos .NET e C#\\Clones GITHub\\ExceptionHandling\\Exceptions.csproj",
         "projectName": "Exceptions",
-        "projectPath": "C:\\Users\\ruan1\\Fundamentos .NET e C#\\Exceptions\\Exceptions.csproj",
+        "projectPath": "C:\\Users\\ruan1\\Fundamentos .NET e C#\\Clones GITHub\\ExceptionHandling\\Exceptions.csproj",
         "packagesPath": "C:\\Users\\ruan1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruan1\\Fundamentos .NET e C#\\Exceptions\\obj\\",
+        "outputPath": "C:\\Users\\ruan1\\Fundamentos .NET e C#\\Clones GITHub\\ExceptionHandling\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
